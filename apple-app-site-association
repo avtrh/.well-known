@@ -1,7 +1,8 @@
 {
     "webcredentials": {
       "apps": [
-        "FAKETEAMID.org.reactjs.native.example.yidapp"
+        "FAKETEAMID.org.reactjs.native.example.yidapp",
+        "9GFA8A95A5.org.reactjs.native.example.yidapp"
       ]
     }
 }
