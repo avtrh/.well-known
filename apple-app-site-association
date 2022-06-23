@@ -9,6 +9,18 @@
                 ]
             },
             {
+                "appID": "9GFA8A95A5.com.yodobashi.avatar",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "9GFA8A95A5.com.yodobashi.avatar.staging",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
                 "appID": "7X7A88WP54.org.reactjs.native.example.yidapp",
                 "paths": [
                     "*"
