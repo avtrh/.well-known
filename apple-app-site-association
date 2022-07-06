@@ -3,7 +3,13 @@
         "apps": [],
         "details": [
             {
-                "appID": "9GFA8A95A5.org.reactjs.native.example.yidapp",
+                "appID": "9GFA8A95A5.org.reactjs.native.example.avatar",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "7X7A88WP54.org.reactjs.native.example.avatar",
                 "paths": [
                     "*"
                 ]
@@ -16,12 +22,6 @@
             },
             {
                 "appID": "9GFA8A95A5.com.yodobashi.avatar.staging",
-                "paths": [
-                    "*"
-                ]
-            },
-            {
-                "appID": "7X7A88WP54.org.reactjs.native.example.yidapp",
                 "paths": [
                     "*"
                 ]
